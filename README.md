@@ -51,4 +51,4 @@ A: 支持，企业级负载均衡架构，稳定可靠。
 Q: 怎么注册？
 A: 点击上方链接访问官网，github、邮箱注册即可。
 
-Keywords: OpenAI API Key, ChatGPT国内接口, Claude3.5充值, API中转, 大模型聚合平台, DeepSeek API.
+Keywords: OpenAI API Key, ChatGPT国内接口, Claude4.5充值, API中转, 大模型聚合平台, DeepSeek API.
