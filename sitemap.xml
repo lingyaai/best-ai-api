@@ -4,7 +4,7 @@
   <!-- 这是你的首页 -->
   <url>
     <loc>https://lingyaai.github.io/best-ai-api/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,7 +12,7 @@
   <!-- 这是你那篇 2026 的文章链接 -->
   <url>
     <loc>https://lingyaai.github.io/best-ai-api/2026-AI-API-China-Service.html</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
