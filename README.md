@@ -1,7 +1,8 @@
-[点击阅读：你的新文章标题](./2026-ai-api-china-gpt-claude-gemini-sora-banana.html)
-
-
 # 🚀 2026最新 AI 大模型 API 中转站 | 国内直连 GitHub 官方推荐
+
+### 💡 最新推荐
+* [【2026最新】AI大模型API中转站：国内直连 GPT/Claude/Gemini/Sora/Banana 全系服务](./2026-ai-api-china-gpt-claude-gemini-sora-banana.html)
+* [2026年中国最佳AI API服务推荐与评测](./2026-AI-API-China-Service.html)
 
 > **✨ 最佳阅读体验提示：** 
 > 
