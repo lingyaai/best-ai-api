@@ -2,8 +2,7 @@
     
     <!-- 1. 顶部英雄区 -->
     <div class="hero-section">
-        <h1>🚀 2026最新 AI 大模型 API 中转站</h1>
-        <p class="subtitle">国内直连 ChatGPT / Claude / Gemini / Sora / Nano Banana Pro</p>
+        <p class="subtitle">国内直连ChatGPT/Claude/Gemini/Sora</p>
         <div class="tag-line">稳定 · 快速 · 不封号 · 开发者首选基础设施</div>
         <a href="https://lyapi.com/" target="_blank" class="cta-button">👉 立即访问灵芽 API 官网</a>
         <p class="note">新人注册即用 · 3分钟快速接入</p>
