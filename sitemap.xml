@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首页 -->
+  <url>
+    <loc>https://lingyaai.github.io/best-ai-api/</loc>
+    <lastmod>2026-01-23</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <!-- 您提供的文章页 -->
+  <url>
     <loc>https://lingyaai.github.io/best-ai-api/2026-ai-api-china-gpt-claude-gemini-sora-banana.html</loc>
     <lastmod>2026-01-23</lastmod>
     <priority>0.9</priority>
   </url>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- 这是你的首页 -->
-  <url>
-    <loc>https://lingyaai.github.io/best-ai-api/</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- 这是你那篇 2026 的文章链接 -->
-  <url>
-    <loc>https://lingyaai.github.io/best-ai-api/2026-AI-API-China-Service.html</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
 </urlset>
