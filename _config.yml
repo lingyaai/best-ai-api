@@ -1,2 +1,7 @@
+title: Best AI API 导航
+description: 2026 AI API China GPT Claude Gemini Sora
+url: "https://lingyaai.github.io"
+baseurl: "/best-ai-api"
+theme: jekyll-theme-slate
 plugins:
   - jekyll-sitemap
